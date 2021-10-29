@@ -2,7 +2,7 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<a href="https://github.com/sfernanda1/restaurant-page-Canela-sGrill/blob/mster/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sfernanda1/restaurant-page-Canela-sGrill?style=plastic"></a>
+<a href="https://github.com/sfernanda1/page-restaurant-Canelas/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sfernanda1/restaurant-page-Canela-sGrill?style=plastic"></a>
 <p align="center">A personal Project that consists of a restaurant website.</p>
 <p align="center">A tribute to my kitten called “Canela” :cat:, in which I’ve developed this code that it’s basically a restaurant webpage.</p>
 
@@ -26,22 +26,22 @@ I've used the "styled-components" component, that is a library in which the writ
 
 :hamburger:Home
 
-![img home](https://github.com/sfernanda1/restaurant-page-Canela-sGrill/blob/master/LICENSE)
+![img home](https://github.com/sfernanda1/page-restaurant-Canelas/blob/main/home.PNG)
 
 :woman_cook:"Sobre Nós"
 
-![img home](https://github.com/sfernanda1/restaurant-page-Canela-sGrill/blob/master/sobrenos.PNG)
+![img home](https://github.com/sfernanda1/page-restaurant-Canelas/blob/main/sobrenos.PNG)
 
 :plate_with_cutlery: "Menu"
 
-![img home](https://github.com/sfernanda1/restaurant-page-Canela-sGrill/blob/master/menu01.PNG)
-![img home](https://github.com/sfernanda1/restaurant-page-Canela-sGrill/blob/master/menu02.PNG)
-![img home](https://github.com/sfernanda1/restaurant-page-Canela-sGrill/blob/master/menu03.PNG)
+![img home](https://github.com/sfernanda1/page-restaurant-Canelas/blob/main/menu01.PNG)
+![img home](https://github.com/sfernanda1/page-restaurant-Canelas/blob/main/menu02.PNG)
+![img home](https://github.com/sfernanda1/page-restaurant-Canelas/blob/main/menu03.PNG)
 
  
  :calendar:"Reserva"
 
-![img home](https://github.com/sfernanda1/restaurant-page-Canela-sGrill/blob/master/reserva.PNG)
+![img home](https://github.com/sfernanda1/page-restaurant-Canelas/blob/main/reserva.PNG)
 
 
 ### Clonar o repositório
