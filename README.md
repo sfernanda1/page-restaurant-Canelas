@@ -2,7 +2,7 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<a href="https://github.com/sfernanda1/page-restaurant-Canelas/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sfernanda1/restaurant-page-Canela-sGrill?style=plastic"></a>
+<a href="https://github.com/sfernanda1/page-restaurant-Canelas/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sfernanda1/page-restaurant-Canelas?style=plastic"></a>
 <p align="center">A personal Project that consists of a restaurant website.</p>
 <p align="center">A tribute to my kitten called “Canela” :cat:, in which I’ve developed this code that it’s basically a restaurant webpage.</p>
 
