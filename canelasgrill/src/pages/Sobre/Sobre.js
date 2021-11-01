@@ -10,15 +10,15 @@ const Sobre = () => {
             <h1>Sobre nós </h1>
             <div className="flex-container">
                  <div className='titulo'>
-                    <> Somos uma Hamburgueria criada em 2021.Nossa meta
-                     é agradar o mais variado tipo de público, dessa maneira não vai existir
+                    <> Somos uma Hamburgueria criada em 2021. Nossa meta
+                     é agradar o mais variado tipo de público, dessa maneira não vão existir
                     dúvidas na hora de escolher o cantinho para ir com seus amigos ou familiares.
-                    Além de carne, possuimos saladas com menor valor calórico para aqueles que estão
-                    no projeto verão.E para quem é vegetariano além de nossa saladas já citadas,
-                    temos também opções de hamburgueres veganos, isso mesmo! Não é uma opção só para
-                    'quebrar o galho', são diversas opções sem nenhum uso de carne.Por fim, possuimos
+                    Além de carne, possuímos saladas com menor valor calórico para aqueles que estão
+                    no projeto verão. E para quem é vegetariano além de nossa saladas já citadas,
+                    temos também opções de hamburgueres veganos. Isso mesmo! Não é uma opção só para
+                    'quebrar o galho', são diversas opções sem nenhum uso de carne. Por fim, possuímos
                     algumas opções de sobremesa para os fãs de doces! Nosssa principal missão vai além 
-                    de servir refeições saborosas, é criar momentos especiais.
+                    de servir refeições saborosas, também é criar momentos especiais.
                     </>
                 </div>
 
